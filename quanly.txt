@@ -1,3 +1,4 @@
 file ban dau
 Hieu viet them
 nhom 7
+xung dot
