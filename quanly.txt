@@ -1,4 +1,8 @@
 file ban dau
 Hieu viet them
 nhom 7
+<<<<<<< HEAD
 xay ra xung dot
+=======
+xung dot
+>>>>>>> a2be151c4c567edb231619f28e0d631bb5363be8
